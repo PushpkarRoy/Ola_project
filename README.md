@@ -16,7 +16,7 @@ This project uncovers deep insights from Ola's ride data using Power BI's visual
    
 ---
  
-## 🎯 Objectives
+## 🎯 Objectives 
 
 - ✅ Understand customer ride behavior and seasonality 
 - ✅ Identify top-performing cities and peak ride durations 
