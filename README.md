@@ -21,7 +21,7 @@ This project uncovers deep insights from Ola's ride data using Power BI's visual
 - ✅ Understand customer ride behavior and seasonality   
 - ✅ Identify top-performing cities and peak ride durations  
 - ✅ Detect trends in cancellations and payment methods 
-- ✅ Deliver insights for operational and business teams
+- ✅ Deliver insights for operational and business teams 
 
 ---
 
