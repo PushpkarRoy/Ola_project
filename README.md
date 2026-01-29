@@ -12,7 +12,7 @@ This project uncovers deep insights from Ola's ride data using Power BI's visual
 - Customer segmentation  
 - Payment behavior  
 - Cancellation patterns      
-- City-wise performance    
+- City-wise performance      
  
 ---      
      
